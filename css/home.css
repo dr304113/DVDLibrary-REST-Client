@@ -1,0 +1,31 @@
+#navigation,
+#customHeaderDiv,
+#goBackButtonDiv {
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+
+#dropdownMenuButton {
+    width: 150px;
+}
+
+#contactTable {
+    text-align: center;
+}
+
+label {
+    text-align: right;
+}
+
+#dvdDetailsContainer {
+    padding-top: 10px;
+}
+
+#ratingRow,
+#releaseYearRow,
+#directorRow,
+#notesRow {
+    padding-top: 30px;
+    padding-left: 50px;
+    text-align: left;
+}
