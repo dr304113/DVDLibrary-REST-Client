@@ -35,7 +35,7 @@ function loadAllDvds() {
             })
         },
         error: function () {
-            displayError('Error calling web service. Please try again later.');
+            displayError('Error calling web service. You may need to turn off your add blocker. Please try again later.');
         }
     });
 }
